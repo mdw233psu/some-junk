@@ -1,4 +1,4 @@
 some-junk
 =========
 
-This is some junk
+A more appropriate message
